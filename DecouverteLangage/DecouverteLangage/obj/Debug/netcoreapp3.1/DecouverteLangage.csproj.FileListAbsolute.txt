@@ -1,0 +1,12 @@
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/bin/Debug/netcoreapp3.1/DecouverteLangage.deps.json
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/bin/Debug/netcoreapp3.1/DecouverteLangage.runtimeconfig.json
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/bin/Debug/netcoreapp3.1/DecouverteLangage.runtimeconfig.dev.json
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/bin/Debug/netcoreapp3.1/DecouverteLangage.dll
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/bin/Debug/netcoreapp3.1/DecouverteLangage.pdb
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.csprojAssemblyReference.cache
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.AssemblyInfoInputs.cache
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.AssemblyInfo.cs
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.csproj.CoreCompileInputs.cache
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.dll
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.pdb
+/Users/ludivine/Desktop/BDD-Csharp/DecouverteLangage/DecouverteLangage/obj/Debug/netcoreapp3.1/DecouverteLangage.genruntimeconfig.cache

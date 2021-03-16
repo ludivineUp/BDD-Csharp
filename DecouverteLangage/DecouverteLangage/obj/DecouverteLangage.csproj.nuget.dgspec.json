@@ -40,24 +40,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "SpecFlow": {
-              "target": "Package",
-              "version": "[3.7.13, )"
-            },
-            "SpecFlow.MsTest": {
-              "target": "Package",
-              "version": "[3.7.13, )"
-            },
-            "SpecFlow.NUnit": {
-              "target": "Package",
-              "version": "[3.7.13, )"
-            },
-            "SpecRun.SpecFlow.1-9-0": {
-              "target": "Package",
-              "version": "[3.2.31, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

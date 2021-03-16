@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{5B026050-71D1-43CB-B8E9-C6FD80B57782}|Default">
   <MonoDevelop.Ide.ItemProperties.DecouverteLangage PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DecouverteLangage/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecouverteLangage/Personne.cs">
     <Files>
-      <File FileName="DecouverteLangage/Program.cs" Line="11" Column="6" />
+      <File FileName="DecouverteLangage/Program.cs" Line="142" Column="35" />
+      <File FileName="DecouverteLangage/Personne.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DecouverteLangage" expanded="True" selected="True">
+          <Node name="DecouverteLangage" expanded="True">
             <Node name="DecouverteLangage" expanded="True">
               <Node name="Dependencies" expanded="True" />
+              <Node name="Personne.cs" selected="True" />
             </Node>
           </Node>
         </State>
