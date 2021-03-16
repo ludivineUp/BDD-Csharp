@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5B026050-71D1-43CB-B8E9-C6FD80B57782}|Default">
+  <MonoDevelop.Ide.ItemProperties.DecouverteLangage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecouverteLangage/Program.cs">
+    <Files>
+      <File FileName="DecouverteLangage/Program.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecouverteLangage" expanded="True" selected="True">
+            <Node name="DecouverteLangage" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

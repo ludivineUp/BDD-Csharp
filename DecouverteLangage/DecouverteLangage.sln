@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouverteLangage", "DecouverteLangage\DecouverteLangage.csproj", "{5B026050-71D1-43CB-B8E9-C6FD80B57782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B026050-71D1-43CB-B8E9-C6FD80B57782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B026050-71D1-43CB-B8E9-C6FD80B57782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B026050-71D1-43CB-B8E9-C6FD80B57782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B026050-71D1-43CB-B8E9-C6FD80B57782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8132D1F-AE40-4811-A599-7EBF2FEAD308}
+	EndGlobalSection
+EndGlobal
