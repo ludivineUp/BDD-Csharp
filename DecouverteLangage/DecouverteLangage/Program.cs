@@ -147,10 +147,42 @@ namespace DecouverteLangage
             WriteLine(myPersonS);
             WriteLine(myPersonS2);
         }
+        public static void ExoHeritage()
+        {
+            Personne pers = new Employe("n", "p", DateTime.Now, 10);
+
+            Employe employe = pers.Clone() as Employe;
+
+            Personne[] Personnes = new Personne[5];
+            //Des Affectations utilisant le concept du polymorphisme
+            Personnes[0] = new Personne("NOM1", "PRENOM1", new DateTime(1985, 3, 4));
+            Personnes[1] = new Employe("NOM2", "PRENOM2", new DateTime(1984, 3, 4), 10000).Clone() as Employe;
+            Personnes[2] = new Employe("NOM3", "PRENOM3", new DateTime(1983, 3, 4), 8000);
+            Personnes[3] = new Employe("NOM4", "PRENOM4", new DateTime(1982, 3, 4), 11000);
+            Personnes[4] = new Employe("NOM5", "PRENOM5", new DateTime(1981, 3, 4), 7000);
+
+            foreach (Personne p in Personnes)
+            {
+                WriteLine(p.Afficher());
+            }
+
+            ITravailleur[] travailleurs = new Personne[5];
+            //Des Affectations utilisant le concept du polymorphisme
+            travailleurs[0] = new Personne("NOM1", "PRENOM1", new DateTime(1985, 3, 4));
+            travailleurs[1] = new Employe("NOM2", "PRENOM2", new DateTime(1984, 3, 4), 10000).Clone() as Employe;
+            travailleurs[2] = new Employe("NOM3", "PRENOM3", new DateTime(1983, 3, 4), 8000);
+            travailleurs[3] = new Employe("NOM4", "PRENOM4", new DateTime(1982, 3, 4), 11000);
+            travailleurs[4] = new Employe("NOM5", "PRENOM5", new DateTime(1981, 3, 4), 7000);
+
+            foreach (ITravailleur p in travailleurs)
+            {
+                WriteLine(p.Afficher());
+            }
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            ExoClass();
+            ExoHeritage();
         }
     }
 }

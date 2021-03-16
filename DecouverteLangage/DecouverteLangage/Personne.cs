@@ -2,7 +2,7 @@
 using System.Linq;
 namespace DecouverteLangage
 {
-    public class Personne : ICloneable
+    public class Personne : ICloneable, ITravailleur
     {
         public static string Test { get; set; } = "TEST";
 
